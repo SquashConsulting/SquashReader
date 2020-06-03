@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:SquashConsulting/rss-reader-backend.git
-[submodule "deamon"]
-	path = deamon
-	url = git@github.com:SquashConsulting/rss-deamon.git
+[submodule "daemon"]
+	path = daemon
+	url = git@github.com:SquashConsulting/rss-daemon.git
